@@ -1,0 +1,1 @@
+# smqa-diplom
