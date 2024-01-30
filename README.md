@@ -166,8 +166,8 @@ Deeplink (или диплинк) — это гиперссылка, котора
 
 - ссылка на Google Doc с выполненными заданиями;
 - в документе настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка»;
-- решение оформлено по [шаблону](https://docs.google.com/spreadsheets/d/1vIHf6BRNgzx8u6qllAeqV-3GXQU0DECmyZigmtx_FQY/edit#gid=0);
-- таблицы в решении отформатированы с переносами и правильной вёрсткой ([ссылка на пример оформления](https://docs.google.com/document/d/1tJ_qzdzo1tofD8L3Eo3MQe8VLaOgEGn_2fbN7IqR_5s/edit)).
+- решение оформлено по [шаблону](https://docs.google.com/spreadsheets/d/1cq1zeOXVzf2cT2ZdXyf2HQ58DJ9euU98rvVG4kBNALY/edit#gid=0);
+- таблицы в решении отформатированы с переносами и правильной вёрсткой ([ссылка на пример оформления](https://docs.google.com/document/d/1yDj9YWZ6wF7v8edq_aJkSFR9g7QgUil5yuuZgbHDzvE/edit)).
    
 ------
 
