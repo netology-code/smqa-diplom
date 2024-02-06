@@ -176,7 +176,7 @@ Deeplink (или диплинк) — это гиперссылка, котора
 Для получения зачёта:  
 - выполнены все обязательные задания в соответствии с прописанными требованиями,
 - приложены соответствующие скриншоты и файлы,
-- решение оформлено по [шаблону](https://docs.google.com/spreadsheets/d/1vIHf6BRNgzx8u6qllAeqV-3GXQU0DECmyZigmtx_FQY/edit#gid=0),
+- решение оформлено по [шаблону](https://docs.google.com/spreadsheets/d/1cq1zeOXVzf2cT2ZdXyf2HQ58DJ9euU98rvVG4kBNALY/edit#gid=0),
 - все таблицы отформатированы с переносами и правильной вёрсткой.
   
 
